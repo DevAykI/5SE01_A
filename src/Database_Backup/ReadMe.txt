@@ -1,0 +1,1 @@
+Created an empty version of the database just incase it's needed!
